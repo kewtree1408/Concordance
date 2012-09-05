@@ -1,0 +1,19 @@
+It was just about a year ago that IBM, Samsung, ARM and others formed Linaro, the not-for-profit organization that aims to make it easier for developers to use Linux on ARM-based devices, and over the past few weeks the group has made several announcements that reveal some of the fruits of its labors.
+At the Linaro Development Summit in Budapest earlier this month, for instance, Linaro demonstrated for the first time its Linaro Evaluation Builds for Android and Ubuntu Linux running on members' hardware, and it will make more such demonstrations at Computex in Taipei this week using newly announced hardware.
+Linaro on Friday also announced a new partner program designed to help companies and organizations get involved with its engineering effort.
+Then there's the Origen, a low-cost ARM development board announced on Monday by Linaro and Samsung that features Samsung's Exynos 4210 chipset and is designed to run Linaro's Ubuntu and Android evaluation builds.
+Last week I had a chance to catch up with Linaro COO Stephen Doel and CTO David Rusling about what the group has accomplished so far. From the sounds of it, we can expect to see Linux used better and more often in the coming months in tablets, smartphones and other high-end devices, thanks at least in part to its work.
+A Test Farm for Validation.
+Linaro was launched at Computex in 2010 by ARM, IBM, Freescale, Samsung, ST-Ericsson and TI with the mission of reducing fragmentation, increasing optimization and making it easier for OEMs and ODMs to develop Linux-based products.
+Lots of different companies are pushing out products very quickly into the market, but they're not always doing a good job of pushing software upstream into the mainline kernel, Doel told me.
+Over the past year, the group has built a team of more than 100 open source developers who have refined Linux on member chips and delivered code upstream for the benefit all Linux-based distributions. It's also created the evaluation builds for Android and Ubuntu, making it easier for device manufacturers to use Linaro's engineering.
+The group's Linaro Automated Validation Architecture (LAVA) platform, meanwhile, runs on a test farm of members' low-cost boards and aims to help device makers get their products to market more quickly.
+Quick and Easy.
+Now, the new Linaro Partner Program hopes to enable ISVs, software service providers and device manufacturers to dedicate engineers to working with Linaro on projects of common interest.
+Canonical, Thundersoft, Mentor Graphics, Genesi and Collabora are among the companies already involved through the program.
+Linaro is essential to the continued expansion of open source software on the ARM architecture, said Steve George, vice president of business development at Canonical. As a member of the Linaro Partner Program, we ensure it's quick and easy to develop and use the best open source technologies on ARM. 
+'Easier, Faster and Less Expensive.
+The Origen development board from Linaro and Samsung, meanwhile, gives software developers low-cost access to the high-performance Exynos mobile computing platform with features including the latest multi-core Cortex-A9 CPU and multi-core Mali400 GPU with 1GB of high end DDR3 memory.
+Aimed at developers of tablets, smartphones and other connected screens, the Origen board will be priced at $199. Linaro will provide source code downloads of its evaluation builds of Android and Ubuntu on its Web site.
+The Origen board and Linaro's provision of software and tools makes it easier, faster and less expensive for developers and companies to develop high-end embedded Linux products, said George Grey, Linaro's CEO.
+Bottom line? A year into Linaro's efforts, it looks like the group is starting to make a real difference in the world of embedded Linux development. It won't be long before consumers and business users begin to feel the positive effects of that work.
